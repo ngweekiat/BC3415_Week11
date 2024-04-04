@@ -4,7 +4,7 @@ import replicate
 import os
 
 os.environ["REPLICATE_API_TOKEN"] = "r8_PgWv9pc0H0ITuiG96E5M6E8jWuFz4Zy1aZqMA"
-palm.configure(api_key="r8_Tw6OFWrbLj0yLk0T7MjZMuTTKme7ism1U4SwU")
+palm.configure(api_key="AIzaSyATy8F6EfovHdxIN83uA09dKmeyHVHSZt4")
 model = {
     "model": "models/chat-bison-001",
 }
